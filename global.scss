@@ -1,0 +1,41 @@
+html,
+body {
+  height: 100%;
+  background: #f6f6f6;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.page-wrap{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Exo';
+}
+
+p{
+font-family: 'Inter';
+color: #808083;
+}
+
+
+h1 {
+  font-size: 4.5em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2em;
+}
